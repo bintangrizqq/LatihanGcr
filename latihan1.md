@@ -1,4 +1,5 @@
 Berikut ScreenCapture Langkah - Langkah :
+
 ![Screenshot 2023-06-08 172555](https://github.com/bintangrizqq/LatihanGcr/assets/128135325/baf27d63-8c74-4901-91cf-bdc5a3a452cd)
 
 ![Screenshot 2023-06-08 172713](https://github.com/bintangrizqq/LatihanGcr/assets/128135325/b6af9c1d-d781-48b5-b10b-9d6484e18e8c)
